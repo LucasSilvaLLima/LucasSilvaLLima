@@ -1,10 +1,11 @@
 ## Ola Eu sou o Lucas Silva Lima 👋
 - 👨‍💻 Tenho 23 anos e mora em Itaquera São Paulo
 - 🔭 Estou em buscando oportunidades para entrar no mercado como dev back-end
-- 🌱 Estou estudando Java entre outras Tecnologias
+- 💻 Estou estudando Java entre outras Tecnologias
+ ##
 <div>
   <a href="https://github.com/LucasSilvaLLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaLLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaLLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaLLima&layout=compact&langs_count=7&theme=dark"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 </div>
