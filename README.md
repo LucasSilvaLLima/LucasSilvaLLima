@@ -1,11 +1,15 @@
-## Ola Eu sou o Lucas Silva Lima 👋
+## Olá Seja Muito bem-vindo ao meu Perfil <br>Eu sou o Lucas Silva Lima 👋
 - 👨‍💻 Tenho 23 anos e mora em Itaquera São Paulo
 - 🔭 Estou em buscando oportunidades para entrar no mercado como dev back-end
 - 💻 Estou estudando Java entre outras Tecnologias
  ##
+ ## <h2>Aqui no meu GITHUB você vai encontrar a minha jornada como DEV.</h2>
+  - Estarei divulgando os meus projetos aqui com o intuito de mostrar meus conhecimentos, minha jornada de aprendizagem e auxiliar aqueles que estão começando com seus estudos.
+ - Se voê esta começando a estudar programação, aqui você podera encontrar alguns repositórios que vão te ajudar a desenvolver suas skills ( Algoritmos, Lógica de programação, estruturas de controle, paradigma de POO, programação Funcional, Padrão de Projeto Observer, entre outras).
+ - Qualquer dúvida podem  estar entrando em contato comigo através do meu Linkedin.  <br>
 <div>
   <a href="https://github.com/LucasSilvaLLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaLLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasSilvaLLima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaLLima&layout=compact&langs_count=7&theme=dark"/>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 </div>
