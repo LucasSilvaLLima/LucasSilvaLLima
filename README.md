@@ -5,7 +5,7 @@
  ##
  ## <h2>Aqui no meu GITHUB você vai encontrar a minha jornada como DEV.</h2>
   - Estarei divulgando os meus projetos aqui com o intuito de mostrar meus conhecimentos, minha jornada de aprendizagem e auxiliar aqueles que estão começando com seus estudos.
- - Se voê esta começando a estudar programação, aqui você podera encontrar alguns repositórios que vão te ajudar a desenvolver suas skills ( Algoritmos, Lógica de programação, estruturas de controle, paradigma de POO, programação Funcional, Padrão de Projeto Observer, entre outras).
+ - Se voê esta começando a estudar programação, aqui você podera encontrar alguns repositórios que vão te ajudar a desenvolver suas skills ( Algoritmos, Lógica de programação, estruturas de controle,utilização de vetor e matriz, paradigma de POO, programação Funcional, Padrão de Projeto Observer, entre outras).
  - Qualquer dúvida podem  estar entrando em contato comigo através do meu Linkedin.  <br>
 <div>
   <a href="https://github.com/LucasSilvaLLima">
