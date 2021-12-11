@@ -2,7 +2,7 @@
 - 👨‍💻 Tenho 23 anos e mora em Itaquera São Paulo
 - 🔭 Estou em buscando oportunidades para entrar no mercado como dev back-end
 - 💻 Estou estudando Java entre outras Tecnologias
--  Principais tecnologias: JAVA, SQL Sever, MySQL, HTML, CSS, PHP
+-  Principais tecnologias: JAVA, SQL Sever, MySQL, HTML, CSS, PHP, SCRUM
  ##
  ## <h2>Aqui no meu GITHUB você vai encontrar a minha jornada como DEV.</h2>
   - Estarei divulgando os meus projetos aqui com o intuito de mostrar meus conhecimentos, minha jornada de aprendizagem e auxiliar aqueles que estão começando com seus estudos.
