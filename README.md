@@ -1,7 +1,8 @@
 ## Olá Seja Muito bem-vindo ao meu Perfil <br>Eu sou o Lucas Silva Lima 👋
 - 👨‍💻 Tenho 23 anos e mora em Itaquera São Paulo
 - 🔭 Estou em buscando oportunidades para entrar no mercado como dev back-end
-- 💻 Estou estudando Java entre outras Tecnologias 
+- 💻 Estou estudando Java entre outras Tecnologias
+-  Principais tecnologias: JAVA, SQL Sever, MySQL, HTML, CSS, PHP
  ##
  ## <h2>Aqui no meu GITHUB você vai encontrar a minha jornada como DEV.</h2>
   - Estarei divulgando os meus projetos aqui com o intuito de mostrar meus conhecimentos, minha jornada de aprendizagem e auxiliar aqueles que estão começando com seus estudos.
