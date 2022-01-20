@@ -1,6 +1,6 @@
 ## Olá Seja Muito bem-vindo ao meu Perfil <br>Eu sou o Lucas Silva Lima 👋
 - 👨‍💻 Tenho 23 anos e mora em Itaquera São Paulo
-- 🔭 Estou em buscando oportunidades para entrar no mercado como dev back-end
+- 🔭 Estou buscando oportunidades para entrar no mercado como desenvolvedor back-end
 - 💻 Estou estudando Java entre outras Tecnologias
 -  Principais tecnologias: JAVA, SQL Sever, MySQL, HTML, CSS, PHP, SCRUM
  ##
